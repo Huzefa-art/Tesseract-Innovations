@@ -1,0 +1,56 @@
+### Company Overview
+Tesseract is a team of passionate and skilled professionals dedicated to creating innovative digital solutions. We specialize in software and technology that helps businesses grow in today’s rapidly evolving digital world. Our team focuses on creativity, collaboration, and cutting-edge tools to bring clients’ ideas to life.
+
+### Mission Statement
+Our mission is to empower businesses and individuals with innovative software solutions that enhance productivity, streamline processes, and drive digital transformation. We uphold the highest standards of quality, security, and customer satisfaction while solving real-world challenges.
+
+### Why Choose Us
+Choose Tesseract for expert software solutions tailored to your unique needs. We ensure:
+- Timely Delivery
+- Transparent Pricing
+- Continuous Improvement
+- Security and Data Privacy
+We are committed to turning your ideas into successful digital realities.
+
+### What Makes Us Different
+At Tesseract, we live by the following values:
+- Individual Approach: Each project is customized to your business goals.
+- Modern Technologies: We use scalable, efficient, and future-proof tech stacks.
+- Complex Solutions: We tackle and deliver even the most technically demanding projects.
+
+### Our Services
+We offer:
+- Web Development: Secure and high-performing websites and web apps.
+- Mobile App Development: Custom mobile solutions focused on UX and security.
+- Desktop App Development: Desktop tools that improve productivity and streamline work.
+- Cloud Computing: Secure cloud-native apps and migration services.
+- Web Scraping: Accurate data extraction for insights and analysis.
+- Ecommerce: Scalable online stores with optimized user experience and payments.
+- Enterprise Solutions: Software that enhances collaboration and business efficiency.
+- AI & Machine Learning: Automation and smart decision-making tools using AI.
+
+### Core Technologies
+Tesseract works with modern technology stacks including:
+- Frontend: React.js, Next.js
+- Backend: Node.js, Python, Django
+- Cloud: AWS, Firebase, Azure
+- AI/ML: OpenAI APIs, TensorFlow, LangChain
+- Databases: PostgreSQL, MongoDB, Redis
+
+### Leadership
+Tesseract is led by CEO **Shariq Sami**, a visionary technology leader with over 5 years of experience in software development and enterprise solutions. He is supported by a leadership team passionate about innovation and excellence.
+
+### Team Size
+Tesseract consists of over **40+ full-time professionals**, including software engineers, product managers, designers, and cloud architects. Our team is global and collaborative.
+
+### Company Address & Contact
+607B, 6th Floor, Al Amin Tower, Gulshan-e-Iqbal Block 10, Karachi  
+Phone: +92-340-8372464  
+Email: info@tesseractinn.com  
+Office Hours: Monday – Friday, 9 AM – 6 PM
+
+### Social Media
+- Facebook: https://www.facebook.com/tesseractinn/  
+- Instagram: https://www.instagram.com/tesseractinn/  
+- LinkedIn: https://www.linkedin.com/company/tesseractinn/
+

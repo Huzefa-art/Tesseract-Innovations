@@ -1,0 +1,7 @@
+Task2/postgres-data/
+__pycache__/
+*.pyc
+*.pkl
+Task1/vector_store.pkl
+config.bat
+node_modules
